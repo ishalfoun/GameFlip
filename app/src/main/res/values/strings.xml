@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GameFlip</string>
+    <string name="title_activity_edit_games">EditGames</string>
+    <string name="preference_file_key">GameFlip</string>
+</resources>
